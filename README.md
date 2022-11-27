@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markoleavy
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working as Full Stack Developer
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ...
 
